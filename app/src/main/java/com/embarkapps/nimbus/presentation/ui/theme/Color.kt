@@ -1,4 +1,4 @@
-package com.embarkapps.nimbus.ui.theme
+package com.embarkapps.nimbus.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
